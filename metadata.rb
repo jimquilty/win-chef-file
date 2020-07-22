@@ -1,8 +1,8 @@
 name 'win-chef-file'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Jim Quilty'
+maintainer_email 'jquilty@chef.io'
 license 'All Rights Reserved'
-description 'Installs/Configures win-chef-file'
+description 'Creates the chef.txt file'
 version '0.1.0'
 chef_version '>= 15.0'
 
